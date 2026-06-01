@@ -12,6 +12,33 @@
 
 # Memory Systems for AI, LLMs & Agentic AI
 
+<img width="1586" height="376" alt="image" src="https://github.com/user-attachments/assets/67217f47-8507-41eb-9fbe-84ed5451422a" />
+
+---
+
+# Agentic Memory 🧠
+- A novel agentic memory system for LLM agents that can dynamically organize memories in an agentic way.
+
+- Introduction 🌟
+- Large Language Model (LLM) agents have demonstrated remarkable capabilities in handling complex real-world tasks through external tool usage. However, to effectively leverage historical experiences, they require sophisticated memory systems. Traditional memory systems, while providing basic storage and retrieval functionality, often lack advanced memory organization capabilities.
+
+- Our project introduces an innovative Agentic Memory system that revolutionizes how LLM agents manage and utilize their memories:
+<img width="1194" height="644" alt="image" src="https://github.com/user-attachments/assets/f6979723-3a24-4037-844a-ae28b203db2f" />
+
+# Framework
+
+<img width="1599" height="754" alt="image" src="https://github.com/user-attachments/assets/c9014787-923f-4cc0-b6fa-a3d9f85b86b4" />
+
+## How It Works 🛠️
+### When a new memory is added to the system:
+- Generates comprehensive notes with structured attributes
+- Creates contextual descriptions and tags
+- Analyzes historical memories for relevant connections
+- Establishes meaningful links based on similarities
+- Enables dynamic memory evolution and updates
+
+---
+
 ##  Complete Guide to Memory Systems in AI, LLMs, RAG & Agentic Applications
 
 This repository is a comprehensive collection of Memory Architectures, Agent Memory Systems, RAG Memory, Vector Databases, Knowledge Graphs, Research Papers, Frameworks, Learning Resources, Official Websites, and GitHub Repositories.
@@ -186,6 +213,15 @@ Awesome-Memory-Systems/
 └── README.md
 
 ```
+
+---
+
+# Agent Memory - Can LLMs Really Think?
+
+<img width="1892" height="938" alt="image" src="https://github.com/user-attachments/assets/af6fa3f3-ada7-46e1-99bb-2266c70022e5" />
+
+---
+
 
 ---
 

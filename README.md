@@ -96,6 +96,7 @@ Neo4j, Memgraph, TigerGraph, ArangoDB, Amazon Neptune.
 | GraphRAG | https://arxiv.org/abs/2404.16130 |
 | HippoRAG | https://arxiv.org/abs/2405.14831 |
 
+
 #  Official Memory Projects
 
 | Project | Website | GitHub |
@@ -116,12 +117,19 @@ Neo4j, Memgraph, TigerGraph, ArangoDB, Amazon Neptune.
 
 #  Awesome Repositories
 
+- https://github.com/agiresearch/A-mem
+- https://github.com/ALucek/agentic-memory
+- https://github.com/mem0ai/mem0
+- https://github.blog/ai-and-ml/github-copilot/building-an-agentic-memory-system-for-github-copilot/
+- https://github.com/ALucek/agentic-memory
+- https://github.com/VectorSpaceLab/general-agentic-memory
 - https://github.com/Hannibal046/Awesome-LLM
 - https://github.com/microsoft/graphrag
 - https://github.com/letta-ai/letta
 - https://github.com/langchain-ai/langchain
 - https://github.com/langchain-ai/langgraph
 - https://github.com/run-llama/llama_index
+- 
 
 # Learning Roadmap
 

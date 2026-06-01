@@ -1,12 +1,7 @@
 
+#  Awesome Memory Systems for AI, LLMs & Agentic AI
 
-
-
-from pathlib import Path
-
-content = r"""# 🧠 Awesome Memory Systems for AI, LLMs & Agentic AI
-
-## 🚀 Complete Guide to Memory Systems in AI, LLMs, RAG & Agentic Applications
+##  Complete Guide to Memory Systems in AI, LLMs, RAG & Agentic Applications
 
 This repository is a comprehensive collection of Memory Architectures, Agent Memory Systems, RAG Memory, Vector Databases, Knowledge Graphs, Research Papers, Frameworks, Learning Resources, Official Websites, and GitHub Repositories.
 
@@ -31,7 +26,7 @@ This repository is a comprehensive collection of Memory Architectures, Agent Mem
 
 ---
 
-# 🎯 Overview
+#  Overview
 
 Memory enables:
 - Personalization
@@ -41,7 +36,7 @@ Memory enables:
 - Knowledge Retention
 - Reflection & Planning
 
-# 🧠 Types of Memory
+# Types of Memory
 
 - Working Memory
 - Short-Term Memory
@@ -51,15 +46,15 @@ Memory enables:
 - Long-Term Memory
 - Collective Memory
 
-# 🏗 Memory Architecture
+#  Memory Architecture
 
 User → Working Memory → Memory Manager → Vector DB / Knowledge Graph / Relational DB → LLM → Response
 
-# 🔄 Memory Lifecycle
+#  Memory Lifecycle
 
 Capture → Store → Index → Retrieve → Reason → Update → Forget
 
-# 🤖 Agent Memory
+#  Agent Memory
 
 - Working Memory
 - Episodic Memory
@@ -68,7 +63,7 @@ Capture → Store → Index → Retrieve → Reason → Update → Forget
 - Planning Memory
 - Long-Term Memory
 
-# 📦 Memory Frameworks
+#  Memory Frameworks
 
 | Framework | Website | GitHub |
 |------------|---------|---------|
@@ -79,15 +74,15 @@ Capture → Store → Index → Retrieve → Reason → Update → Forget
 | AutoGen | https://microsoft.github.io/autogen | https://github.com/microsoft/autogen |
 | CrewAI | https://www.crewai.com | https://github.com/crewAIInc/crewAI |
 
-# 🗄 Vector Databases
+#  Vector Databases
 
 Pinecone, Weaviate, Milvus, Qdrant, Chroma, LanceDB, Vespa, pgvector, Redis, Neo4j Vector.
 
-# 🕸 Knowledge Graph Databases
+# Knowledge Graph Databases
 
 Neo4j, Memgraph, TigerGraph, ArangoDB, Amazon Neptune.
 
-# 📄 Memory Research Papers
+#  Memory Research Papers
 
 | Paper | Link |
 |---------|---------|
@@ -101,7 +96,7 @@ Neo4j, Memgraph, TigerGraph, ArangoDB, Amazon Neptune.
 | GraphRAG | https://arxiv.org/abs/2404.16130 |
 | HippoRAG | https://arxiv.org/abs/2405.14831 |
 
-# 🌐 Official Memory Projects
+#  Official Memory Projects
 
 | Project | Website | GitHub |
 |----------|----------|----------|
@@ -110,7 +105,7 @@ Neo4j, Memgraph, TigerGraph, ArangoDB, Amazon Neptune.
 | Mem0 | https://mem0.ai | https://github.com/mem0ai/mem0 |
 | LangGraph | https://www.langchain.com/langgraph | https://github.com/langchain-ai/langgraph |
 
-# 🎓 Learning Resources
+#  Learning Resources
 
 - https://academy.langchain.com
 - https://huggingface.co/course
@@ -119,7 +114,7 @@ Neo4j, Memgraph, TigerGraph, ArangoDB, Amazon Neptune.
 - https://learn.microsoft.com/ai
 - https://docs.llamaindex.ai
 
-# ⭐ Awesome Repositories
+#  Awesome Repositories
 
 - https://github.com/Hannibal046/Awesome-LLM
 - https://github.com/microsoft/graphrag
@@ -128,7 +123,7 @@ Neo4j, Memgraph, TigerGraph, ArangoDB, Amazon Neptune.
 - https://github.com/langchain-ai/langgraph
 - https://github.com/run-llama/llama_index
 
-# 🚀 Learning Roadmap
+# Learning Roadmap
 
 Memory Fundamentals
 ↓
@@ -150,7 +145,7 @@ HippoRAG
 ↓
 Production Systems
 
-# 📂 Repository Structure
+# Repository Structure
 
 ```bash
 Awesome-Memory-Systems/

@@ -120,6 +120,7 @@ Neo4j, Memgraph, TigerGraph, ArangoDB, Amazon Neptune.
 - https://github.com/agiresearch/A-mem
 - https://github.com/ALucek/agentic-memory
 - https://github.com/mem0ai/mem0
+- https://github.com/letta-ai/letta
 - https://github.blog/ai-and-ml/github-copilot/building-an-agentic-memory-system-for-github-copilot/
 - https://github.com/ALucek/agentic-memory
 - https://github.com/VectorSpaceLab/general-agentic-memory
